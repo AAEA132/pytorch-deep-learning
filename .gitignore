@@ -147,6 +147,7 @@ logs/
 runs/
 extras/cifar-10*
 my_notebooks/extras/00/data/
+my_notebooks/extras/01/data/
 
 # Notebooks
 09_pytorch_model_deployment-*
@@ -164,6 +165,8 @@ models/07_effnetb2_data_20_percent_5_epochs.pth
 models/08_*
 models/09_*
 my_notebooks/extras/00/model.pth
+my_notebooks/extras/exercises/models
+my_notebooks/video_notebooks/models
 
 # Demos
 demos/foodvision_big/
